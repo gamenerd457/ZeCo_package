@@ -1,0 +1,6 @@
+setup.py
+ZeCo/__init__.py
+ZeCo.egg-info/PKG-INFO
+ZeCo.egg-info/SOURCES.txt
+ZeCo.egg-info/dependency_links.txt
+ZeCo.egg-info/top_level.txt
